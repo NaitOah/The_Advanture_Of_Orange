@@ -1,0 +1,678 @@
+# depslib dependency file v1.0
+1721231573 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+
+1721234246 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+
+1721239393 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+	<stdlib.h>
+	<time.h>
+	"map.h"
+
+1721238450 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.1\map.h
+
+1721239519 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.1\map.c
+	"map.h"
+
+1721239519 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\map.c
+	"map.h"
+
+1721240364 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\map.h
+
+1721240304 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\character.c
+
+1721240304 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\character.cpp
+
+1721239519 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\map.cpp
+	"map.h"
+
+1721240397 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\game.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+	"map.h"
+	"character.h"
+	"game.h"
+
+1721240376 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\character.h
+
+1721240390 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\game.h
+	<graphics.h>
+	"map.h"
+	"character.h"
+
+1721240646 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.2\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+
+1721240304 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.3\character.cpp
+
+1721286621 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.3\game.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+	"map.h"
+	"character.h"
+	"game.h"
+
+1721271381 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.3\map.h
+
+1721271398 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.3\character.h
+
+1721274077 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.3\game.h
+	"character.h"
+	"map.h"
+
+1721274630 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.3\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+
+1721271537 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.3\map.cpp
+	"map.h"
+
+1721240304 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.4\character.cpp
+
+1721288781 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.4\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+
+1721287487 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.4\map.h
+
+1721287466 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.4\character.h
+
+1721290204 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.4\game.h
+	"character.h"
+	"map.h"
+
+1721287699 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.4\map.cpp
+	"map.h"
+
+1721287888 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.4\game.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+	"map.h"
+	"character.h"
+	"game.h"
+
+1721240304 source:c:\users\asus\desktop\final\the_adventure_of_orange_v2\the_adventure_of_orange_v2.4\character.cpp
+
+1721290486 source:c:\users\asus\desktop\final\the_adventure_of_orange_v2\the_adventure_of_orange_v2.4\game.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+	"map.h"
+	"character.h"
+	"game.h"
+
+1721287487 c:\users\asus\desktop\final\the_adventure_of_orange_v2\the_adventure_of_orange_v2.4\map.h
+
+1721287466 c:\users\asus\desktop\final\the_adventure_of_orange_v2\the_adventure_of_orange_v2.4\character.h
+
+1721290204 c:\users\asus\desktop\final\the_adventure_of_orange_v2\the_adventure_of_orange_v2.4\game.h
+	"character.h"
+	"map.h"
+
+1721288781 source:c:\users\asus\desktop\final\the_adventure_of_orange_v2\the_adventure_of_orange_v2.4\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+
+1721287699 source:c:\users\asus\desktop\final\the_adventure_of_orange_v2\the_adventure_of_orange_v2.4\map.cpp
+	"map.h"
+
+1721294079 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3\character.cpp
+
+1721294053 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3\game.cpp
+
+1721294171 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+	"menu.h"
+	"player.h"
+	"draw.h"
+
+1721294410 c:\users\asus\desktop\final\the_adventure_of_orange_v3\map.h
+
+1721294222 c:\users\asus\desktop\final\the_adventure_of_orange_v3\character.h
+	"map.h"
+
+1721294127 c:\users\asus\desktop\final\the_adventure_of_orange_v3\game.h
+	"character.h"
+	"map.h"
+	"draw.h"
+	"player.h"
+
+1721294302 c:\users\asus\desktop\final\the_adventure_of_orange_v3\draw.h
+	"character.h"
+	"map.h"
+
+1721294146 c:\users\asus\desktop\final\the_adventure_of_orange_v3\player.h
+	"character.h"
+	"map.h"
+
+1721294161 c:\users\asus\desktop\final\the_adventure_of_orange_v3\menu.h
+
+1721294046 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3\map.cpp
+
+1721294272 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3\draw.cpp
+	<graphics.h>
+	<tchar.h>
+	<cstdio>
+	"draw.h"
+
+1721294311 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3\player.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	"player.h"
+	"draw.h"
+	"map.h"
+
+1721294345 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	"menu.h"
+	"map.h"
+
+1721294079 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\character.cpp
+
+1721302375 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\draw.cpp
+	<graphics.h>
+	<tchar.h>
+	<cstdio>
+	"draw.h"
+
+1721304261 c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\draw.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721301250 c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\character.h
+	"map.h"
+
+1721301355 c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\map.h
+
+1721305485 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\game.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	"game.h"
+	"map.h"
+	"character.h"
+	"save_load.h"
+	"draw.h"
+	"player.h"
+	"menu.h"
+
+1721305178 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+	"menu.h"
+	"save_load.h"
+
+1721304365 c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\game.h
+	"character.h"
+	"map.h"
+	"draw.h"
+	"player.h"
+	"save_load.h"
+
+1721304378 c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\player.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721305370 c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\menu.h
+	"character.h"
+	"map.h"
+	"game.h"
+
+1721301346 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\map.cpp
+	"map.h"
+
+1721305339 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	"menu.h"
+	"game.h"
+	"save_load.h"
+
+1721301584 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\player.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	"player.h"
+	"draw.h"
+	"map.h"
+
+1721304683 c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\save_load.h
+	"character.h"
+	"map.h"
+
+1721304491 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.1\save_load.cpp
+	"save_load.h"
+	<stdio.h>
+	<time.h>
+	<sys/stat.h>
+	<string.h>
+	<direct.h>
+
+1721294079 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\character.cpp
+
+1721302375 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\draw.cpp
+	<graphics.h>
+	<tchar.h>
+	<cstdio>
+	"draw.h"
+
+1721304261 c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\draw.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721301250 c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\character.h
+	"map.h"
+
+1721301355 c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\map.h
+
+1721301346 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\map.cpp
+	"map.h"
+
+1721301584 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\player.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	"player.h"
+	"draw.h"
+	"map.h"
+
+1721304378 c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\player.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721304491 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\save_load.cpp
+	"save_load.h"
+	<stdio.h>
+	<time.h>
+	<sys/stat.h>
+	<string.h>
+	<direct.h>
+
+1721304683 c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\save_load.h
+	"character.h"
+	"map.h"
+
+1721310432 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\game.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	"game.h"
+	"map.h"
+	"character.h"
+	"save_load.h"
+	"draw.h"
+	"player.h"
+	"menu.h"
+
+1721310177 c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\game.h
+	"character.h"
+	"map.h"
+	"draw.h"
+	"player.h"
+	"save_load.h"
+
+1721310402 c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\menu.h
+	"character.h"
+	"map.h"
+	"game.h"
+
+1721310762 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	"menu.h"
+	"game.h"
+	"save_load.h"
+
+1721310410 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.2\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+	"menu.h"
+	"save_load.h"
+
+1721294079 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\character.cpp
+
+1721302375 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\draw.cpp
+	<graphics.h>
+	<tchar.h>
+	<cstdio>
+	"draw.h"
+
+1721304261 c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\draw.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721301250 c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\character.h
+	"map.h"
+
+1721301355 c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\map.h
+
+1721301346 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\map.cpp
+	"map.h"
+
+1721301584 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\player.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	"player.h"
+	"draw.h"
+	"map.h"
+
+1721304378 c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\player.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721304491 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\save_load.cpp
+	"save_load.h"
+	<stdio.h>
+	<time.h>
+	<sys/stat.h>
+	<string.h>
+	<direct.h>
+
+1721304683 c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\save_load.h
+	"character.h"
+	"map.h"
+
+1721310967 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\game.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	"game.h"
+	"map.h"
+	"character.h"
+	"save_load.h"
+	"draw.h"
+	"player.h"
+	"menu.h"
+
+1721310177 c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\game.h
+	"character.h"
+	"map.h"
+	"draw.h"
+	"player.h"
+	"save_load.h"
+
+1721315479 c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\menu.h
+	"character.h"
+	"map.h"
+	"game.h"
+
+1721315595 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+	"menu.h"
+	"save_load.h"
+
+1721315769 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\menu.cpp
+	<windows.h>
+	<mmsystem.h>
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<dirent.h>
+	"menu.h"
+	"game.h"
+	"save_load.h"
+
+1721314495 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.3\test_music.cpp
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+
+1721294079 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\character.cpp
+
+1721315810 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+	"menu.h"
+	"save_load.h"
+
+1721320754 c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\map.h
+	"character.h"
+
+1721319832 c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\character.h
+
+1721320765 c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\game.h
+	"character.h"
+	"map.h"
+
+1721321322 c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\draw.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721321112 c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\player.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721319992 c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\save_load.h
+	"game.h"
+
+1721315479 c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\menu.h
+	"character.h"
+	"map.h"
+	"game.h"
+
+1721322391 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\menu.cpp
+	<windows.h>
+	<mmsystem.h>
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<dirent.h>
+	"menu.h"
+	"game.h"
+	"save_load.h"
+
+1721322610 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\player.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	"player.h"
+	"draw.h"
+	"map.h"
+
+1721320015 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\save_load.cpp
+	"save_load.h"
+	<cstdio>
+	<direct.h>
+	<cstring>
+	<ctime>
+	<sys/stat.h>
+
+1721323005 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\draw.cpp
+	<graphics.h>
+	<tchar.h>
+	<cstdio>
+	"draw.h"
+
+1721322168 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\map.cpp
+	"map.h"
+
+1721322860 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.4\game.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	"game.h"
+	"map.h"
+	"character.h"
+	"save_load.h"
+	"draw.h"
+	"player.h"
+	"menu.h"
+
+1721294079 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\character.cpp
+
+1721315810 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\main.cpp
+	<graphics.h>
+	<conio.h>
+	<ctime>
+	"map.h"
+	"character.h"
+	"game.h"
+	"menu.h"
+	"save_load.h"
+
+1721393440 c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\map.h
+	"character.h"
+
+1721319832 c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\character.h
+
+1721320765 c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\game.h
+	"character.h"
+	"map.h"
+
+1721315479 c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\menu.h
+	"character.h"
+	"map.h"
+	"game.h"
+
+1721319992 c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\save_load.h
+	"game.h"
+
+1721396493 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\menu.cpp
+	<windows.h>
+	<mmsystem.h>
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	<dirent.h>
+	"menu.h"
+	"game.h"
+	"save_load.h"
+
+1721320015 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\save_load.cpp
+	"save_load.h"
+	<cstdio>
+	<direct.h>
+	<cstring>
+	<ctime>
+	<sys/stat.h>
+
+1721396131 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\draw.cpp
+	<graphics.h>
+	<tchar.h>
+	<cstdio>
+	"draw.h"
+
+1721393644 c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\draw.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721393099 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\map.cpp
+	"map.h"
+
+1721394560 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\game.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	<stdio.h>
+	<time.h>
+	"game.h"
+	"map.h"
+	"character.h"
+	"save_load.h"
+	"draw.h"
+	"player.h"
+	"menu.h"
+
+1721393842 c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\player.h
+	"character.h"
+	"map.h"
+	<graphics.h>
+
+1721394732 source:c:\users\asus\desktop\final\the_adventure_of_orange_v3.5\player.cpp
+	<graphics.h>
+	<conio.h>
+	<tchar.h>
+	"player.h"
+	"draw.h"
+	"map.h"
+
