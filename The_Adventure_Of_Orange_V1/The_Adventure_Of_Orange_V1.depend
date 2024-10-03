@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1721231573 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+
