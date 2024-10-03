@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1721231573 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+
+1721234246 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+
+1721239393 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<tchar.h>
+	<stdlib.h>
+	<time.h>
+	"map.h"
+
+1721238450 c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.1\map.h
+
+1721239519 source:c:\users\asus\desktop\c_homework\final\the_adventure_of_orange_v2.1\map.c
+	"map.h"
+
